@@ -1,0 +1,47 @@
+{
+  "name": "grunt-l10n-json",
+  "description": "Convert a CSV localization file to a JSON file",
+  "version": "0.0.0",
+  "homepage": "https://github.com/timhettler/grunt-l10n-json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timhettler/grunt-l10n-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timhettler/grunt-l10n-json/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/assemble/verb/blob/master/LICENSE-MIT"
+    }
+  ],
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": {
+    "name": "Tim Hettler",
+    "url": "https://github.com/timhettler"
+  },
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "async": "~0.8.0",
+    "q": "~1.0.1",
+    "xtend": "~3.0.0",
+    "csv": "~0.3.7"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "verb": "~0.2.7"
+  },
+  "keywords": [
+    "grunt",
+    "localization",
+    "csv",
+    "json",
+    "l10n",
+    "i18n"
+  ]
+}

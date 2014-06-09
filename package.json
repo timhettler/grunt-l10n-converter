@@ -1,14 +1,14 @@
 {
-  "name": "grunt-l10n-json",
+  "name": "grunt-l10n",
   "description": "Convert a CSV localization file to a JSON file",
   "version": "0.1.0",
-  "homepage": "https://github.com/timhettler/grunt-l10n-json",
+  "homepage": "https://github.com/timhettler/grunt-l10n",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timhettler/grunt-l10n-json.git"
+    "url": "https://github.com/timhettler/grunt-l10n.git"
   },
   "bugs": {
-    "url": "https://github.com/timhettler/grunt-l10n-json/issues"
+    "url": "https://github.com/timhettler/grunt-l10n/issues"
   },
   "licenses": [
     {

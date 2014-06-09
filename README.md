@@ -1,4 +1,4 @@
-# grunt-l10n-json
+# grunt-l10n
 
 > Convert a CSV localization file to a JSON file
 
@@ -51,5 +51,5 @@ Pull requests are also encouraged, please re-build the documentation with [verb-
 
 
 ## License and Copyright
-Copyright (c) 2014 Tim Hettler, contributors.  
+Copyright (c) 2014 Tim Hettler, contributors.
 Released under the MIT license
